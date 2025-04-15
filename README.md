@@ -61,7 +61,7 @@ Traditional KD enforces output mimicry that leads to:
 
 ## Gap Analysis
 
-### 2.2.1 Limitations in Existing Methods
+### 1 Limitations in Existing Methods
 
 | Method | Limitation |
 |--------|-----------|
@@ -73,7 +73,7 @@ Traditional KD enforces output mimicry that leads to:
 | Pseudo-Labeling | Label noise |
 | Hierarchical Gen. | Diversity and scalability limitations |
 
-### 2.2.2 Research Gaps
+### 2 Research Gaps
 
 - Overemphasis on static knowledge transfer
 - Ignored student feedback and evolving learning states
@@ -123,4 +123,3 @@ spark/
 ├── New Frameworks/           # On Going
 │
 ├── README.md
-├── requirements.txt
