@@ -1,9 +1,0 @@
-Model_Name,ROUGE_rouge1,ROUGE_rouge2,ROUGE_rougeL,ROUGE_rougeLsum,BERTScore_F1,Exact_Match,Accuracy,Inference_Time(s),Model_Size(GB),Peak_GPU_Memory(GB)
-Qwen_Qwen3-4B-Instruct-2507,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,343.77,4.11,3.75
-Qwen_Qwen3-1.7B,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,195.19,1.89,3.75
-Qwen_Qwen2.5-1.5B-Instruct,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,169.17,1.66,2.14
-Qwen_Qwen2.5-7B-Instruct,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,313.55,8.11,7.46
-openai-community_gpt2-medium,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,75.31,0.38,1.3
-openai-community_gpt2-xl,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,194.17,1.53,2.98
-meta-llama_Llama-3.2-1B-Instruct,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,106.06,1.4,2.01
-meta-llama_Llama-2-7b-hf,0.3,0.0,0.3,0.3,0.9760925418138504,0.3,0.3,324.54,6.52,6.27
